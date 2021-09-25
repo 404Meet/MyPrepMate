@@ -8,22 +8,22 @@ MyPrep Mate aims at reducing this gap. At MyPrep Mate with all course-related ma
 # Scope and Objectives
 This website is aimed to serving students at all levels of education. Currently, it services college students
 
-Video Lectures: 24x7 on-demand video lectures access to teach them the subject in a novel way.
-Study Material: The students also have an access to a vast online library where they may be able further their knowledge
-Quizzes: Combined with the facility to test their knowledge in the subject, students can fully prepared for the examinations.
+1. Video Lectures: 24x7 on-demand video lectures access to teach them the subject in a novel way.
+2. Study Material: The students also have an access to a vast online library where they may be able further their knowledge
+3. Quizzes: Combined with the facility to test their knowledge in the subject, students can fully prepared for the examinations.
 
 # UI Flow
-![Uploading Blueprint_MPM.png…]()
+![Blueprint_MPM](https://user-images.githubusercontent.com/78685308/134762600-8e6984c3-50d6-4e96-9c69-aefb211cfde8.png)
 
 # UI Screenshots
-Home Screen
-UI_HomeScreen_MPM
+## Home Screen
+![HomeScreen_MPM](https://user-images.githubusercontent.com/78685308/134762616-0613322a-0c84-4942-b478-1f139b3268d6.png)
 
-Course Screen
-UI_CourseScreen_MPM
+## Course Screen
+![CourseScreen_MPM](https://user-images.githubusercontent.com/78685308/134762675-4dda10fe-8108-4351-85bf-c7fed9729bf1.png)
 
-Quiz Screen
-UI_QuizScreen_MPM
+## Quiz Screen
+![QuizScreen_MPN](https://user-images.githubusercontent.com/78685308/134762646-da9d4c8c-a968-439c-87d7-78650ce01699.png)
 
-About Screen
-UI_AboutScreen_MPM
+## About Screen
+![About_MPM](https://user-images.githubusercontent.com/78685308/134762662-2d37ab8c-2a9e-447b-9435-a5d25994ed9c.png)
