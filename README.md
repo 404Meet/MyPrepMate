@@ -13,7 +13,7 @@ Study Material: The students also have an access to a vast online library where 
 Quizzes: Combined with the facility to test their knowledge in the subject, students can fully prepared for the examinations.
 
 # UI Flow
-UI_Flow_MPM
+![Uploading Blueprint_MPM.png…]()
 
 # UI Screenshots
 Home Screen
